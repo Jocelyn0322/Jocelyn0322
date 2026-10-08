@@ -19,4 +19,4 @@ PHP · MySQL · JavaScript · React · Python · HTML/CSS
 - Exploring open source and looking for my first contributions
 
 ### 📫 Contact
-chip.0322tw@egmail.com
+chip.0322tw@gmail.com
