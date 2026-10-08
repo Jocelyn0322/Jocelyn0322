@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Jocelyn 👋
 
-<!--
-**Jocelyn0322/Jocelyn0322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Third-year Information Management student at Fu Jen Catholic University, Taiwan.
+My background spans economics, mathematics, and data science, and I enjoy
+building web apps and turning data into something useful.
 
-Here are some ideas to get you started:
+### 🔧 Tech I use
+PHP · MySQL · JavaScript · React · Python · HTML/CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Projects
+- **[Comsctic](https://github.com/Jocelyn0322/New-SA)** — Course project prototype of an
+  AI beauty platform with skin analysis, product recommendations, and a community
+  for video and image posts. · [Live demo](https://cosmetic.trynow.tw/)
+- **TIEI Platform** (private, in development) — Team capstone project building an
+  education platform for a real client, TWINSOL Academy. I designed the database
+  schema and am building the homepage, admin, and consultant pages.
+
+### 🌱 Currently
+- Exploring open source and looking for my first contributions
+
+### 📫 Contact
+chip.0322tw@egmail.com
