@@ -12,8 +12,12 @@ PHP · MySQL · JavaScript · React · Python · HTML/CSS
   AI beauty platform with skin analysis, product recommendations, and a community
   for video and image posts. · [Live demo](https://cosmetic.trynow.tw/)
 - **TIEI Platform** (private, in development) — Team capstone project building an
-  education platform for a real client, TWINSOL Academy. I designed the database
-  schema and am building the homepage, admin, and consultant pages.
+  education platform for a real client, which I lead as team leader. It connects
+  students, parents, consultants, and teachers through role-based portals, with
+  school search, a discussion forum, consultation booking, course scheduling, and
+  post-class feedback. Beyond leading the team, I designed the database schema and
+  am building the homepage, admin, and consultant pages. Next step: integrating an
+  LLM-powered chatbot to answer students' and parents' questions.
 
 ### 🌱 Currently
 - Exploring open source and looking for my first contributions
